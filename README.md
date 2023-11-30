@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou Gabriel Lima Pereia
-- 👨‍💻 Atualmente comecei a aprender sobre html, css e C#
+- 👨‍💻 Atualmente estudando javascrip e C#
 <div>
 <a href="https://github.com/Gabriellima303">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriellima303&layout=compact&langs_count=7&theme=dracula"/>
