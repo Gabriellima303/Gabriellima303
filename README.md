@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou Gabriel Lima Pereia
+- 👋 Olá, eu sou Gabriel Lima Pereira
 - 👨‍💻 Atualmente estudando javascrip e C#
 <div>
 <a href="https://github.com/Gabriellima303">
